@@ -10,7 +10,6 @@ int main()
 
     // memberi nilai dari variable
     umur = 20;
-
     // menampilkan isi string
     cout << "abra" << endl;
     // menampilkan isi integer
