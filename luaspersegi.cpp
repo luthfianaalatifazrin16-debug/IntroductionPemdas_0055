@@ -12,6 +12,7 @@ int main()
     // langkah 3 : masukkan lebar
     cout << "masukkan ebar : ";
     cin >> l;
+
     // langkah 4 : Hitung Luas = p x l
     luas = p * l;
     // langkah 5
