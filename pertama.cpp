@@ -3,10 +3,11 @@
 using namespace std;
 
 // program utama
-int min()
+int main()
 {
     // deklarasi variable umur
     int umur;
+
     // memberi nilai dari variable
     umur = 20;
 
