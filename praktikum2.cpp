@@ -4,7 +4,6 @@ using namespace std;
 float p, l;
 
 void input()
-
 {
     cout << " Masukkan Panjang : ";
     cin >> p;
