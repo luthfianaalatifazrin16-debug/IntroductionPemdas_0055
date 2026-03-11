@@ -46,3 +46,11 @@ int main()
     masukanData(berat, tinggi);
     // Menghitung BMI menggunakan fungsi
     bmi = hitungBMI(berat, tinggi);
+    // Menampilkan Hasil
+    cout << endl;
+    cout << "--- Hasil ---" << endl;
+    cout << "BMI Anda : " << bmi << endl;
+    cout << "Status   : " << cekStatus(bmi) << endl;
+
+    return 0;
+}
